@@ -93,9 +93,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  name             : "Take back our economy!"
+  avatar           : "https://raw.githubusercontent.com/synctext/synctext.github.io/master/images/robot_one_wheel.png"
+  bio              : "Take back our economy!"
   location         : "Somewhere"
   email            :
   links:
