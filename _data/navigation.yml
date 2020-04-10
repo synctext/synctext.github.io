@@ -1,7 +1,9 @@
 # main links
 main:
   - title: "Technology"
-    url: /#details
+    url: "#details"
+  - title: "Screenshots"
+    url: "/#screens"
   - title: "About us"
     url: /#about
   # - title: "About"
