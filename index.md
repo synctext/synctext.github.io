@@ -9,7 +9,7 @@ The future has arrived. Create an organisation without a leader that physically 
 
 
 Grow a community, make a profit, make decisions, conduct votes, and free yourself of hierarchy. 
-Create your own organisation in the cloud, free of lawyer-fees, technology-lockin, Big Tech depandancy, and government censorship.
+Create your own organisation in the cloud, free of lawyer fees, technology-lockin, Big Tech dependancy, and government censorship.
 
 
 ## Details
