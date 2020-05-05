@@ -42,4 +42,9 @@ We implemented collective ownership of _any_ sum of Bitcoins with democratic rul
 [Download Android app here](https://github.com/Tribler/trustchain-superapp/actions?query=branch%3Adao).
 Disclaimer: this is Beta DAO stuff, you might lose your Bitcoins.
 
+## Developer Documentation
+
+https://github.com/Tribler/trustchain-superapp/blob/dao/README.md
+
 {% include figure image_path="/images/robot_one_wheel.png" alt="this is a placeholder image" %}
+
