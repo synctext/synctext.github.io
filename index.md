@@ -4,17 +4,18 @@ author_profile: false
 header:
   overlay_image: "/images/robot_piano_splash.jpeg"
 ---
+Imagine a world in which only robots work.
 
-The future has arrived. Create an organisation without a leader that physically does not exist!
+Imagine a life in which you never need to work. Your life is a permanent vacation, you can watch television endlessly or spend time on permanent road trips. Imagine never retiring, because there is no need to retire.
 
+Imagine a world where robots have taken all the job. Robots do all our dirty work, all our mindless office jobs, they make our food, everything.
+This future has arrived. Delft University of Technology has realised a key milestone for the robot economy. 
 
-Grow a community, make a profit, make decisions, conduct votes, and free yourself of hierarchy. 
-Create your own organisation in the cloud, free of lawyer fees, technology-lockin, Big Tech dependancy, and government censorship.
-
+We created the first seed for capitalism on steroids: a fully automated organisation. Free from leadership, overhead, and outdated regulations you can manage millions in (Bitcoin) assets. Grow a community, make a profit, make decisions, conduct votes, and free yourself of hierarchy. Create your own organisation in the cloud, free of lawyer fees, technology-lockin, Big Tech dependancy, and government censorship. Total existential freedom.
 
 ## Details
 We developed technology to promote social change concerning institutions, companies, infrastructures and resources.
-Our technology tries to alter the essence of capitalism. Our micro-economy offers benefits to everybody and is democratically ruled, not owned by any elite.
+Our technology tries to alter the essence of capitalism. Our micro-economy of robots offers benefits to everybody and is democratically ruled, not owned by any elite.
 Our technology is designed to withstand all known government attacks, lawyer-based attacks, and cooperate interest.
 Our technology is based on smartphones which can transmit money and information freely and are under democratic oversight. 
 
