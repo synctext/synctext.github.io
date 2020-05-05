@@ -23,23 +23,22 @@ Our technology is based on smartphones which can transmit money and information 
 - Access to capital, knowledge, and resources necessary to start any economic activity
 - Full transparency and democratic governance with stability and predictability
 
+## Screens and Features
+
+We implemented collective ownership of _any_ sum of Bitcoins with democratic rule. 
+- ✔️ Zero-server architecture, phone-to-phone only
+- ✔️ Start you own DAO in seconds
+- ✔️ Secure online votes for DAO members
+- ✔️ Pay developers for any code they developed in Bitcoin
+- ✔️ Distribute any code with Libtorrent on Android
+- ✔️ Freedom of computing, no Google permission needed to inject any code
+- ✔️ zero-server AI, machine learning which is not influence by humans or legal systems
+
+{% include figure image_path="/images/DAO-in-action.jpg" alt="this is a placeholder image" %}
+
 ## Download
 
 [Download Android app here](https://github.com/Tribler/trustchain-superapp/actions?query=branch%3Adao).
 Disclaimer: this is Beta DAO stuff, you might lose your Bitcoins.
-
-## Screens
-
-Yes, still all in very crude form and in early BETA. But the code runs somewhat:
-- ✔️ :heavy_check_mark: Start you own DAO in seconds
-- ✔️ :heavy_check_mark: Secure online votes for DAO members
-- ✔️ :heavy_check_mark: Pay developers for any code they developed in Bitcoin
-- ✔️ :heavy_check_mark: Distribute any code with Libtorrent on Android
-- ✔️ :heavy_check_mark: Freedom of computing, no Google permission needed to inject any code
-- ✔️ :heavy_check_mark: zero-server AI, machine learning which is not influence by humans or legal systems
-
-{% include figure image_path="/images/DAO-in-action.jpg" alt="this is a placeholder image" %}
-
-Try out the future now (BETA).
 
 {% include figure image_path="/images/robot_one_wheel.png" alt="this is a placeholder image" %}
