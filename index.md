@@ -8,7 +8,7 @@ Imagine a world in which robots do all the work.
 
 Imagine the life in which you never need to work. Your life is a permanent vacation, you can watch television endlessly or spend time on permanent road trips. Imagine never retiring, because there is no need to retire.
 
-Imagine a world where robots have taken all the jobs. All of them. Robots do all our dirty work, all our mindless office jobs, they make our food, everything. This future has arrived. Delft University of Technology has realised a key milestone for the robot economy. We can now democratically control _any_ amount of money.
+Imagine a world where robots have taken all the jobs. All of them. Robots do all our dirty work, all our mindless office jobs, they make our food, everything. This future has arrived. Delft University of Technology has realised a key milestone for the robot economy. We can now democratically control _any_ amount of money and coordinate any economic activity.
 
 Imagine a fully automated factory, company, or country with honest democratic rule. Robots as incorruptible saints, the first seed for capitalism on steroids. Free from leadership, overhead, and outdated regulations you can manage millions in (Bitcoin) assets. Grow a community, make a profit, make decisions, conduct votes, and free yourself of hierarchy. Create your own organisation in the cloud, free of lawyer fees, technology-lockin, Big Tech dependancy, and government censorship. Total existential freedom.
 
