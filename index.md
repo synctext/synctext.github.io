@@ -25,13 +25,14 @@ Our technology is based on smartphones which can transmit money and information 
 
 ## Screens and Features
 
-We implemented collective ownership of _any_ sum of Bitcoins with democratic rule. 
+We implemented collective ownership of _any_ sum of Bitcoins with democratic rule. With freedom to code we facilitate any economic activity with these Bitcoins.
 - ✔️ Zero-server architecture, phone-to-phone only
 - ✔️ Start you own DAO in seconds
 - ✔️ Secure online votes for DAO members
 - ✔️ Pay developers for any code they developed in Bitcoin
 - ✔️ Distribute any code with Libtorrent on Android
 - ✔️ Freedom of computing, no Google permission needed to inject any code
+- ✔️ Native execution, no costly smart contracts that can't scale
 - ✔️ zero-server AI, machine learning which is not influence by humans or legal systems
 
 {% include figure image_path="/images/DAO-in-action.jpg" alt="this is a placeholder image" %}
