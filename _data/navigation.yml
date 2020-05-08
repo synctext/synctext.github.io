@@ -2,10 +2,26 @@
 main:
   - title: "Technology"
     url: "#details"
-  - title: "Screenshots"
-    url: "#screens-and-features"
+  - title: "Features"
+    url: "#features"
+    # Uncomment the code below to try out if a nested menu works
+#    children:
+#      - title: "Exploring the community"
+#      - url: "#exploring-the-community"
+#      - title: "Voting"
+#      - url: "#voting"
+#      - title: "AI Trading"
+#      - url: "#ai-trading"
+#      - title: "Market Bot"
+#      - url: "#marketbot"
+#      - title: "DAO Functionality"
+#      - url: "#dao-functionality"
+#      - title: "Freedom of Computing"
+#      - url: "#freedom-of-computing"
   - title: "Download"
     url: "#download"
+  - title: "Documentation"
+    url: "#developer-documentation"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

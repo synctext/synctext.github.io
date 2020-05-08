@@ -69,7 +69,7 @@ Our technology is based on smartphones which can transmit money and information 
 - Access to capital, knowledge, and resources necessary to start any economic activity
 - Full transparency and democratic governance with stability and predictability
 
-## Screens and Features
+## Features
 
 We implemented collective ownership of _any_ sum of Bitcoins with democratic rule. With freedom to code we facilitate any economic activity with these Bitcoins.
 - ✔️ Zero-server architecture, phone-to-phone only
