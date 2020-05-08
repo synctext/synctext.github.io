@@ -5,8 +5,8 @@ header:
   overlay_image: "/images/robot_piano_splash.jpeg"
 
 gallery:
-  - url: /assets/images/create-proposal.gif
-    image_path: /assets/images/create-proposal.gif
+  - url: /assets/images/trustchain-apps/create-proposal.gif
+    image_path: /assets/images/trustchain-apps/create-proposal.gif
     alt: "placeholder image 1"
     title: "Creating a proposal"
   - url: /assets/images/create-proposal.gif
