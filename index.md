@@ -5,22 +5,16 @@ header:
   overlay_image: "/assets/images/robot_piano_splash.jpeg"
 
 gallery:
-  - url: /assets/images/trustchain-apps/create-proposal.gif
-    image_path: /assets/images/trustchain-apps/create-proposal.gif
-    alt: "placeholder image 1"
+  - url: /assets/images/trustchain-apps/voter-create-proposal.gif
+    image_path: /assets/images/trustchain-apps/voter-create-proposal.gif
     title: "Creating a proposal"
-  - url: /assets/images/create-proposal.gif
-    image_path: /assets/images/create-proposal.gif
-    alt: "placeholder image 1"
+  - url: /assets/images/trustchain-apps/ai-trading-live_trading.gif
+    image_path: /assets/images/trustchain-apps/ai-trading-live_trading.gif
     title: "Creating a proposal"
-  - url: /assets/images/create-proposal.gif
-    image_path: /assets/images/create-proposal.gif
-    alt: "placeholder image 1"
+  - url: /assets/images/trustchain-apps/
+    image_path: /assets/images/trustchain-apps/
     title: "Creating a proposal"
-  - url: /assets/images/create-proposal.gif
-    image_path: /assets/images/create-proposal.gif
-    alt: "placeholder image 1"
-    title: "Creating a proposal"
+
 
 ---
 **Imagine** a world in which robots do all the work.
@@ -54,7 +48,7 @@ We implemented collective ownership of _any_ sum of Bitcoins with democratic rul
 - ✔️ Native execution, no costly smart contracts that can't scale
 - ✔️ zero-server AI, machine learning which is not influence by humans or legal systems
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery id="gallery" caption="This is a sample gallery with **Markdown support**." %}
 
 
 ## Download
