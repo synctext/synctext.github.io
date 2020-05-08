@@ -2,7 +2,7 @@
 layout: home
 author_profile: false
 header:
-  overlay_image: "/images/robot_piano_splash.jpeg"
+  overlay_image: "/assets/images/robot_piano_splash.jpeg"
 
 gallery:
   - url: /assets/images/trustchain-apps/create-proposal.gif
@@ -64,4 +64,4 @@ Disclaimer: this is Beta DAO stuff, you might lose your Bitcoins.
 
 ## Developer Documentation
 
-https://github.com/Tribler/trustchain-superapp/blob/dao/README.md
+Learn more about what is underneath the hood in our `README.md` [here](https://github.com/Tribler/trustchain-superapp/blob/dao/README.md)
