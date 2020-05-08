@@ -4,19 +4,52 @@ author_profile: false
 header:
   overlay_image: "/assets/images/robot_piano_splash.jpeg"
 
-gallery:
+explorer-gallery:
+  - url: /assets/images/trustchain-apps/explorer-demo-android.png
+    image_path: /assets/images/trustchain-apps/explorer-demo-android.png
+    title: "Peers in the community"
+  - url: /assets/images/trustchain-apps/explorer-demo-android-trustchain.png
+    image_path: /assets/images/trustchain-apps/explorer-demo-android-trustchain.png
+    title: "Blocks on the chain"
+
+voter-gallery:
   - url: /assets/images/trustchain-apps/voter-create-proposal.gif
     image_path: /assets/images/trustchain-apps/voter-create-proposal.gif
     title: "Creating a proposal"
-  - url: /assets/images/trustchain-apps/ai-trading-live_trading.gif
-    image_path: /assets/images/trustchain-apps/ai-trading-live_trading.gif
-    title: "Creating a proposal"
-  - url: /assets/images/trustchain-apps/
-    image_path: /assets/images/trustchain-apps/
-    title: "Creating a proposal"
+  - url: /assets/images/trustchain-apps/voter-cast-vote-process.gif
+    image_path: /assets/images/trustchain-apps/voter-cast-vote-process.gif
+    title: "Casting a vote"
+    
+ai-trading-gallery:
+  - url: /assets/images/trustchain-apps/ai-trading-live-trading.gif
+    image_path: /assets/images/trustchain-apps/ai-trading-live-trading.gif
+    title: "AI trading bot"
 
-
+marketbot-gallery:
+  - url: /assets/images/trustchain-apps/marketbot-PayloadFragment.gif
+    image_path: /assets/images/trustchain-apps/marketbot-PayloadFragment.gif
+    title: "Market bot"
+    
+multisig-gallery:
+  - url: /assets/images/trustchain-apps/multisig-screenshot_6.png
+    image_path: /assets/images/trustchain-apps/multisig-screenshot_6.png
+    title: "Creating a new proposal"
+  - url: /assets/images/trustchain-apps/multisig-screenshot_7.png
+    image_path: /assets/images/trustchain-apps/multisig-screenshot_7.png
+    title: "My DAOs
+  - url: /assets/images/trustchain-apps/multisig-screenshot_10.png
+    image_path: /assets/images/trustchain-apps/multisig-screenshot_10.png
+    title: "Proposals"
+    
+foc-gallery:
+  - url: /assets/images/trustchain-apps/foc-demo1.gif
+    image_path: /assets/images/trustchain-apps/foc-demo1.gif
+    title: "Uploading procedure"
+  - url: /assets/images/trustchain-apps/foc-demo2.gif
+    image_path: /assets/images/trustchain-apps/foc-demo2.gif
+    title: "Download and code execution"
 ---
+
 **Imagine** a world in which robots do all the work.
 
 **Imagine** the life in which you never need to work. Your life is a permanent vacation, you can watch television endlessly or spend time on permanent road trips. Imagine never retiring, because there is no need to retire.
