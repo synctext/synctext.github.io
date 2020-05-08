@@ -3,9 +3,9 @@ main:
   - title: "Technology"
     url: "#details"
   - title: "Screenshots"
-    url: "/#screens"
-  - title: "About us"
-    url: /#about
+    url: "#screens-and-features"
+  - title: "Download"
+    url: "#download"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
