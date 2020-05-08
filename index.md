@@ -81,7 +81,30 @@ We implemented collective ownership of _any_ sum of Bitcoins with democratic rul
 - ✔️ Native execution, no costly smart contracts that can't scale
 - ✔️ zero-server AI, machine learning which is not influence by humans or legal systems
 
-{% include gallery id="gallery" caption="This is a sample gallery with **Markdown support**." %}
+### Exploring the community
+_Add some beautiful description here_
+
+{% include gallery id="explorer-gallery" caption="" %}
+
+### Voting
+_Add some beautiful description here_
+{% include gallery id="voter-gallery" caption="" %}
+
+### AI Trading
+_Add some beautiful description here_
+{% include gallery id="ai-trading-gallery" caption="" %}
+
+### Market Bot
+_Add some beautiful description here_
+{% include gallery id="marketbot-gallery" caption="" %}
+
+### DAO Functionality
+_Add some beautiful description here_
+{% include gallery id="multisig-gallery" caption="" %}
+
+### Freedom of Computing
+_Add some beautiful description here_
+{% include gallery id="foc-gallery" caption="" %}
 
 
 ## Download
