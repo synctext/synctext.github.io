@@ -66,7 +66,7 @@ Will output the following:
 
 ```html
 <figure>
-  <img src="/assets/images/unsplash-image-10.jpg" alt="this is a placeholder image">
+  <img src="/OLD/assets/images/unsplash-image-10.jpg" alt="this is a placeholder image">
   <figcaption>This is a figure caption.</figcaption>
 </figure>
 ```
