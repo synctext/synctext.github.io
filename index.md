@@ -36,7 +36,7 @@ multisig-gallery:
     title: "Creating a new proposal"
   - url: /assets/images/trustchain-apps/multisig-screenshot_7.png
     image_path: /assets/images/trustchain-apps/multisig-screenshot_7.png
-    title: "My DAOs
+    title: "My DAOs"
   - url: /assets/images/trustchain-apps/multisig-screenshot_10.png
     image_path: /assets/images/trustchain-apps/multisig-screenshot_10.png
     title: "Proposals"
