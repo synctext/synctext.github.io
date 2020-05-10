@@ -10,7 +10,8 @@
 @import "../node_modules/bulma/sass/utilities/initial-variables";
 
 // 2. Set your own initial variables
-$dark: rgb(95, 95, 95);;
+$dark: rgb(95, 95, 95);
+$white: #fff;
 // Update the blue shade, used for links
 $blue: #06bcef;
 // Add pink and its invert
@@ -34,7 +35,7 @@ $primary-invert: $pink-invert;
     background-color: transparent;
 }
 .greeting .title{
-    color: $dark;
+    color: white;
 }
 .greeting::after{
     content: "_";
@@ -43,6 +44,7 @@ $primary-invert: $pink-invert;
     -ms-animation: 1s blink step-end infinite;
     -o-animation: 1s blink step-end infinite;
     animation: 1s blink step-end infinite;
+    color: $white
 }
 
 @keyframes blink {
@@ -50,7 +52,7 @@ $primary-invert: $pink-invert;
         color: transparent;
     }
     50% {
-        color: $dark
+        color: white
     }
   }
   
@@ -59,7 +61,7 @@ $primary-invert: $pink-invert;
         color: transparent;
     }
     50% {
-        color: $dark
+        color: white
     }
   }
   
@@ -68,7 +70,7 @@ $primary-invert: $pink-invert;
         color: transparent;
     }
     50% {
-        color: $dark
+        color: white
     }
   }
   
@@ -77,7 +79,7 @@ $primary-invert: $pink-invert;
         color: transparent;
     }
     50% {
-        color: $dark
+        color: white
     }
   }
   
@@ -86,6 +88,6 @@ $primary-invert: $pink-invert;
         color: transparent;
     }
     50% {
-        color: $dark
+        color: white
     }
   }

@@ -1,7 +1,7 @@
 {
-  "name": "personal_portfolio_emiel_de_smidt",
+  "name": "delft_dao_web_page",
   "version": "1.0.0",
-  "description": "Personal web portfolio ",
+  "description": "Web page of the Delft DAO ",
   "main": "sass/mystyle.scss",
   "homepage": "http://emieldesmidtde.github.io/emieldesmidtde.github.io",
   "keywords": [
@@ -9,7 +9,6 @@
     "trustchain"
   ],
   "author": "Emiel de Smidt",
-  "license": "ISC",
   "devDependencies": {
     "bulma": "^0.8.2",
     "node-sass": "^4.14.1"
