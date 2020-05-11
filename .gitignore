@@ -13,7 +13,7 @@ Gemfile.lock
 **/vendor/bundle
 
 # Node.js and NPM
-node_modules
+#node_modules required for github pages
 npm-debug.log*
 package-lock.json
 codekit-config.json
@@ -27,3 +27,6 @@ codekit-config.json
 .sass-cache
 _asset_bundler_cache
 _site
+
+# JetBrains
+.idea
