@@ -82,7 +82,7 @@ We implemented collective ownership of _any_ sum of Bitcoins with democratic rul
 - ✔️ zero-server AI, machine learning which is not influence by humans or legal systems
 
 ### Exploring the community
-_Add some beautiful description here_
+_Add some beautiful description here._
 
 {% include gallery id="explorer-gallery" caption="" %}
 
